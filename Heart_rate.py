@@ -3,7 +3,6 @@ import imageio
 import matplotlib.pyplot as plt
 
 fps = 30
-filename = input('Enter the file name:')
 file_path = input('Enter the file path:')
 
 #POST PROCESSING
